@@ -1,3 +1,4 @@
+// This program demonstrates the use of for loops in C++.
 #include <iostream>
 
 int main() {

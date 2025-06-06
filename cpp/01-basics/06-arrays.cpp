@@ -1,3 +1,4 @@
+// This program demonstrates the declaration, initialization, and usage of arrays in C++.
 #include <iostream>
 
 int main() {

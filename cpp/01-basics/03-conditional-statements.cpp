@@ -1,3 +1,4 @@
+// This program demonstrates conditional statements (if, else if, else) in C++.
 #include <iostream>
 
 int main() {

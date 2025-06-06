@@ -1,3 +1,4 @@
+// This program demonstrates the definition and use of functions in C++.
 #include <iostream>
 
 // Function declaration

@@ -1,3 +1,4 @@
+// This program demonstrates basic output in C++.
 #include <iostream>  // Preprocessor directive to include the standard input-output stream library
 
 int main() {

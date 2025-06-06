@@ -1,3 +1,4 @@
+// This program demonstrates the use of do-while loops in C++.
 #include <iostream>
 
 int main() {
