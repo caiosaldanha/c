@@ -1,3 +1,4 @@
+// This program demonstrates the concept of pointers in C++.
 #include <iostream>
 
 int main() {
